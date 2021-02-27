@@ -1,0 +1,4 @@
+This version ommits twoSensorMode all together and relies on auto system of sensor mode: 
+->  two if available
+->  one if one is offline
+->  switches automatically to the on line sensor in case of one off line
